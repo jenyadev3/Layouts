@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Layouts/static/css/main.6e5fa946.css",
+    "main.js": "/Layouts/static/js/main.1aa8b89f.js",
+    "index.html": "/Layouts/index.html",
+    "main.6e5fa946.css.map": "/Layouts/static/css/main.6e5fa946.css.map",
+    "main.1aa8b89f.js.map": "/Layouts/static/js/main.1aa8b89f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e5fa946.css",
+    "static/js/main.1aa8b89f.js"
+  ]
+}
